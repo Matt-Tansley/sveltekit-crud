@@ -1,0 +1,14 @@
+.flex-grid {
+    display: flex
+}
+
+.fully-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.hidden {
+    display: none
+}
